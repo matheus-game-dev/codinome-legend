@@ -1,10 +1,9 @@
 # Projeto Legend
 
-[![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-yellow)]
-[![Contribuições](https://img.shields.io/badge/contribui%C3%A7%C3%B5es-abertas-brightgreen)](https://github.com/)
-[![License](https://img.shields.io/badge/license-propriet%C3%A1ria-lightgrey)](https://github.com/)
-[![Language](https://img.shields.io/badge/language-PT--BR-blue)](https://github.com/)
-[![Focus](https://img.shields.io/badge/focus-MMORPG%20%2F%20PvP%20%2F%20Guildas-purple)](https://github.com/)
+![Status](https://img.shields.io/badge/status-em%20construção-yellow)
+![Contribuições](https://img.shields.io/badge/contribuições-abertas-brightgreen)
+![Language](https://img.shields.io/badge/language-PT--BR-blue)
+![Focus](https://img.shields.io/badge/focus-MMORPG%20%2F%20PvP%20%2F%20Guildas-purple)
 
 > Um MMORPG inspirado nos clássicos de navegador, com combate por turnos, progressão significativa, guildas ativas e foco total na comunidade.
 

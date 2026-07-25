@@ -29,7 +29,7 @@
 
 **Projeto Legend** é uma proposta de MMORPG criada para resgatar a sensação dos jogos clássicos que marcaram uma geração: evoluir com esforço, competir com outros jogadores, fortalecer a guilda e sentir que cada conquista realmente importa.
 
-A ideia não é copiar um jogo existente, mas construir um **sucessor espiritual** com identidade própria, filosofia moderna de design e base sólida para crescimento contínuo.
+A ideia não é copiar um jogo existente, mas construir um **sucessor espiritual** do Legend Online/Wartune com identidade própria, filosofia moderna de design e base sólida para crescimento contínuo.
 
 ---
 
@@ -60,18 +60,18 @@ A proposta é unir:
 ### Jogabilidade
 
 * **Combate por turnos** com foco em estratégia.
-* **Classes clássicas** inspiradas nos MMORPGs que marcaram época.
+* **Classes clássicas** inspiradas no Legend Online.
 * **Progressão de longo prazo** com level, talentos, títulos e reputação.
 * **Equipamentos relevantes** ao longo da jornada do personagem.
-* **Atributos com função real**, sem sistema decorativo.
+* **Atributos com função real**.
 
 ### Conteúdo
 
-* **PvP forte** com arena, GvG e disputa por objetivos.
+* **PvP forte** com arena, GvG e campo de batalha.
 * **Guildas como pilar central** da experiência.
 * **Eventos recorrentes** para manter o servidor vivo.
 * **Pets, montarias e cosméticos** como parte da identidade do jogador.
-* **Economia entre jogadores** com mercado e moeda premium bem controlada.
+* **Economia entre jogadores** com mercado e moeda bem controlada.
 
 ### Direção de design
 

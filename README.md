@@ -2,8 +2,8 @@
 
 ![Status](https://img.shields.io/badge/status-em%20construção-yellow)
 ![Contribuições](https://img.shields.io/badge/contribuições-abertas-brightgreen)
-![Language](https://img.shields.io/badge/language-PT--BR-blue)
-![Focus](https://img.shields.io/badge/focus-MMORPG%20%2F%20PvP%20%2F%20Guildas-purple)
+![Idioma](https://img.shields.io/badge/language-PT--BR-blue)
+![Foco](https://img.shields.io/badge/focus-MMORPG%20%2F%20PvP%20%2F%20Guildas-purple)
 
 > Um MMORPG inspirado nos clássicos de navegador, com combate por turnos, progressão significativa, guildas ativas e foco total na comunidade.
 

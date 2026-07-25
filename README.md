@@ -1,6 +1,6 @@
 # Projeto Legend
 
-[![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-yellow)](https://github.com/)
+[![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-yellow)]
 [![Contribuições](https://img.shields.io/badge/contribui%C3%A7%C3%B5es-abertas-brightgreen)](https://github.com/)
 [![License](https://img.shields.io/badge/license-propriet%C3%A1ria-lightgrey)](https://github.com/)
 [![Language](https://img.shields.io/badge/language-PT--BR-blue)](https://github.com/)
@@ -138,52 +138,11 @@ O objetivo é que o jogador gratuito continue competitivo e que o jogador que ap
 
 ---
 
-## Roadmap
+## Status
 
-### Phase 1 — Vision
+> **Fase atual:** documentação, definição da visão e busca por colaboradores.
 
-* finalizar a documentação do projeto;
-* organizar classes, combate e progressão;
-* definir a identidade central do jogo;
-* coletar feedback da comunidade.
-
-### Phase 2 — Community
-
-* criar presença no GitHub;
-* abrir canal de comunicação;
-* apresentar a proposta em comunidades;
-* atrair jogadores veteranos e colaboradores.
-
-### Phase 3 — Team
-
-* formar equipe inicial;
-* definir responsabilidades;
-* dividir sistemas por área;
-* estruturar o trabalho colaborativo.
-
-### Phase 4 — Technical Design
-
-* definir engine;
-* escolher linguagem e arquitetura;
-* planejar banco de dados;
-* estruturar servidor e comunicação;
-* preparar base para desenvolvimento.
-
-### Phase 5 — Prototype
-
-* construir o núcleo jogável;
-* implementar login, personagem e classes;
-* criar combate básico;
-* adicionar inventário e progressão inicial;
-* testar a diversão do loop principal.
-
-### Phase 6 — Expansion
-
-* expandir mapas;
-* adicionar eventos;
-* melhorar PvP;
-* introduzir pets, montarias e conteúdo de guilda;
-* evoluir o jogo junto com a comunidade.
+O foco agora é deixar o projeto claro, organizado e fácil de apresentar para possíveis colaboradores.
 
 ---
 
@@ -209,54 +168,18 @@ Este projeto está aberto para pessoas que queiram colaborar com:
 * jogadores veteranos do gênero;
 * pessoas interessadas em construir um MMO do zero com visão de longo prazo.
 
----
-
-## Documentação
-
-A documentação do projeto está separada por área para facilitar leitura e colaboração.
-
-* `docs/00-visao-do-projeto.md`
-* `docs/01-filosofia-de-design.md`
-* `docs/02-classes.md`
-* `docs/03-combate.md`
-* `docs/04-progressao.md`
-* `docs/05-equipamentos.md`
-* `docs/06-economia.md`
-* `docs/07-pve.md`
-* `docs/08-pvp.md`
-* `docs/09-guildas.md`
-* `docs/10-eventos.md`
-* `docs/11-pets.md`
-* `docs/12-montarias.md`
-* `docs/13-cosmeticos.md`
-* `docs/14-monetizacao.md`
-* `docs/15-roadmap.md`
-* `docs/16-decisoes-de-design.md`
-* `docs/17-documento-tecnico.md`
-
----
-
-## Status
-
-> **Fase atual:** documentação e definição da visão.
-
-O foco agora é deixar o projeto claro, organizado e fácil de apresentar para possíveis colaboradores.
 
 ---
 
 ## Destaques do projeto
 
-> **Combate por turnos**
-> Estratégia, leitura de atributos e decisões por rodada.
+> **Combate por turnos**.
 
 > **Guildas fortes**
-> Competição, cooperação e rivalidade saudável.
 
 > **Monetização justa**
-> Personalização e conveniência, não vantagem absurda.
 
 > **Comunidade no centro**
-> O jogo evolui ouvindo quem joga.
 
 ---
 

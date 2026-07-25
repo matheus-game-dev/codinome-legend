@@ -17,10 +17,9 @@
 * [Princípios de design](#princípios-de-design)
 * [Para quem é](#para-quem-é)
 * [Monetização](#monetização)
-* [Roadmap](#roadmap)
+* [Status](#status)
 * [Contribuidores](#contribuidores)
 * [Documentação](#documentação)
-* [Status](#status)
 
 ---
 
